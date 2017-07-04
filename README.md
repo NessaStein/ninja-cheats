@@ -1,4 +1,3 @@
 # ninja-cheats
-# ninja-cheats
-# ninja-cheats
-# ninja-cheats
+## This is my personal note
+## include dev, ops, sec, misc...
